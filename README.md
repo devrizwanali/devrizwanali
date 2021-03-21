@@ -7,7 +7,7 @@
 
 Hi, I'm [Rizwn Ali](https://www.linkedin.com/in/rizwan-ali-450888121/), a Full Stack Developer, from Pakistan PK, 
 
-  <img align="right" alt="GIF" src="https://github.com/devrizwanali/devrizwanali/blob/main/coding.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/devrizwanali/devrizwanali/blob/develop/coding.gif" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
