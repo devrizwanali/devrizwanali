@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rizwan Ali</h1>
-<h3 align="center">A passionate Fullstack ROR developer from Pakistan</h3>
+<h3 align="center">A passionate Fullstack web developer from Pakistan.</h3>
 
 #### My GitHub Visitors
 <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=devrizwanali" alt="devrizwanali" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devrizwanali" alt="devrizwanali" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=devrizwanali&theme=flat&margin-w=5&title=Repositories,Commits,PullRequest,MultiLanguage,Issue" alt="devrizwanali" /></a> </p>
 
 - 👨🏽‍💻 I’m currently working on something cool 😉;
 
